@@ -36,7 +36,7 @@ This repository provides practical guidance and scripts for defending Windows en
      
  ### 🚨 DISCLAIMER 🚨      
  
- Remember that any changes made in your or client environment is YOUR express responsibility and dur diligance is required in assessing the environment for custom configurations, risk acceptace and requirements.    
+ Remember that any changes made in your and/or client environment is **YOUR** express responsibility, **YOUR** due diligance is required in assessing the environment for custom configurations, risk acceptace and requirements.    
  Any actions, configurations, or deployments undertaken based on the information provided in this document are solely the responsibility of the recipient. Jordan Albaladejo and any affiliated entity disclaim all liability for any outcomes resulting from the use or implementation of these solutions.     
 
  > #### *Happy defending* 🛡️⚔️
