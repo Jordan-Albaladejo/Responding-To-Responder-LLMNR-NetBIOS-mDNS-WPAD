@@ -28,7 +28,7 @@ This repository provides practical guidance and scripts for defending Windows en
   
   - 🪄 [Disable NetBIOS - Platform Script](https://github.com/Jordan-Albaladejo/Responding-To-Responder-LLMNR-NetBIOS-mDNS-WPAD/blob/main/Platform%20Scripts/DisableNetBIOS.ps1)
       - Brief Explanation: This script will iterate over the listed NIC (Ensuring it applies change to all) checking if DWORD "NetbiosOptions" is present and set to "2", if not create and/or update. This will ensure each NIC has the NetBIOS setting: "Disable NetBIOS over TCP/IP" set.
-          - Special credit to [Credit of NetBIOS disable method](https://woshub.com/how-to-disable-netbios-over-tcpip-and-llmnr-using-gpo/) for method of DWORD.     
+          - Special credit to [How to Disable NetBIOS, LLMNR, mDNS Protocols in Windows](https://woshub.com/how-to-disable-netbios-over-tcpip-and-llmnr-using-gpo/) for method of DWORD.     
   
   - 🪄 [Disable WPAD - Platform Script](https://github.com/Jordan-Albaladejo/Responding-To-Responder-LLMNR-NetBIOS-mDNS-WPAD/blob/main/Platform%20Scripts/DisableWPAD.ps1)
       - Brief Explanation: This script will look to see if existing DWORD "DisableWPAD" is present and set to "1", if not create and/or update.      
@@ -43,4 +43,4 @@ Remember that any changes made in your and/or client environment is **YOUR** exp
 
 ### ✨ Credits
 This guide and accompanying PowerShell scripts were researched and developed with assistance from AI tools, including Microsoft Copilot and OpenAI ChatGPT, to enhance accuracy, efficiency and completeness.    
-Special credit to [Credit of NetBIOS disable method](https://woshub.com/how-to-disable-netbios-over-tcpip-and-llmnr-using-gpo/) for method of DWORD configuration of NetBIOS.
+Special credit to [How to Disable NetBIOS, LLMNR, mDNS Protocols in Windows](https://woshub.com/how-to-disable-netbios-over-tcpip-and-llmnr-using-gpo/) for method of DWORD configuration of NetBIOS.
