@@ -41,6 +41,6 @@ Remember that any changes made in your and/or client environment is **YOUR** exp
  > ### *Happy Defending* 🛡️⚔️
 
 
-### Credits
+### ✨ Credits
 This guide and accompanying PowerShell scripts were researched and developed with assistance from AI tools, including Microsoft Copilot and OpenAI ChatGPT, to enhance accuracy, efficiency and completeness.    
 Special credit to [Credit of NetBIOS disable method](https://woshub.com/how-to-disable-netbios-over-tcpip-and-llmnr-using-gpo/) for method of DWORD configuration of NetBIOS.
