@@ -38,9 +38,9 @@ This repository provides practical guidance and scripts for defending Windows en
  
 Remember that any changes made in your and/or client environment is **YOUR** express responsibility, **YOUR** due diligance is required in assessing the environment for custom configurations, risk acceptance and requirements. Any actions, configurations, or deployments undertaken based on the information provided in this document are solely the responsibility of the recipient. Jordan Albaladejo and any affiliated entity disclaim all liability for any outcomes resulting from the use or implementation of these solutions.     
 
- > ### *Happy Defending* 🛡️⚔️
-
 
 ### ✨ Credits
 This guide and accompanying PowerShell scripts were researched and developed with assistance from AI tools, including Microsoft Copilot and OpenAI ChatGPT, to enhance accuracy, efficiency and completeness.    
 Special credit to [How to Disable NetBIOS, LLMNR, mDNS Protocols in Windows](https://woshub.com/how-to-disable-netbios-over-tcpip-and-llmnr-using-gpo/) for method of DWORD configuration of NetBIOS.
+
+ > ### *Happy Defending* 🛡️⚔️
